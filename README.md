@@ -14,4 +14,7 @@ While the majority of Node.js apps are deployed and run in the cloud, few levera
 "An approach to developing a single application as a suite of small services, each running in its own process and communicating with lightweight mechanisms often an HTTP resource API"
 This enables services to be independently scalable.
 
+# Cloud Native Technologies
+Cloud native technologies empower organizations to build and run scalable applications in modern, dynamic enviornments such as public, private, and hybrid clouds. These techniques enable loosely coupled systems that are resilient, manageable, and observable.
 
+"It's all about how applications are created and deployed, not where"
