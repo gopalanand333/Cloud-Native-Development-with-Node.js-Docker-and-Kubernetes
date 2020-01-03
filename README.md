@@ -9,3 +9,9 @@ While the majority of Node.js apps are deployed and run in the cloud, few levera
 - Adding self-healing capabilities
 - Building custom charts and graphs
 - Adding support for metrics and request tracking
+
+## Microservices
+"An approach to developing a single application as a suite of small services, each running in its own process and communicating with lightweight mechanisms often an HTTP resource API"
+This enables services to be independently scalable.
+
+
