@@ -18,3 +18,6 @@ This enables services to be independently scalable.
 Cloud native technologies empower organizations to build and run scalable applications in modern, dynamic enviornments such as public, private, and hybrid clouds. These techniques enable loosely coupled systems that are resilient, manageable, and observable.
 
 "It's all about how applications are created and deployed, not where"
+ 
+ If we take an application and just deploy it to a cloud, it's not cloud native, it's just cloud hosted. For it to be a cloud native application, it needs to be a small, lightweight service, it needs to be independently deployable and scalable but most importantly, it needs to exploit the capabilities that the cloud provides.
+
