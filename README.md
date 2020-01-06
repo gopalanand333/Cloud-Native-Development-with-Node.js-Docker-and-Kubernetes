@@ -21,3 +21,18 @@ Cloud native technologies empower organizations to build and run scalable applic
  
  If we take an application and just deploy it to a cloud, it's not cloud native, it's just cloud hosted. For it to be a cloud native application, it needs to be a small, lightweight service, it needs to be independently deployable and scalable but most importantly, it needs to exploit the capabilities that the cloud provides.
 
+
+
+## Node.js in the cloud
+- Node.js has the right characteristics
+- Is being deployed "cloud first"
+- But is mostly being cloud hosted.
+
+# Cloud Native JS(https://www.cloudnativejs.io/)
+
+
+### to install the basic structure of express use the command 
+```express <appname>```
+This will generate an application with basic setup that is cloud ready.
+use ```npm intalll`` to install all dependencies then 
+```npm start``` to start the application.
