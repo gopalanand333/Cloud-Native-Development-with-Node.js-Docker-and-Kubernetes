@@ -29,10 +29,18 @@ Cloud native technologies empower organizations to build and run scalable applic
 - But is mostly being cloud hosted.
 
 # Cloud Native JS(https://www.cloudnativejs.io/)
+<image src="https://github.com/gopalanand333/Cloud-Native-Development-with-Node.js-Docker-and-Kubernetes/blob/master/images/stats-node_vs_java.png?raw=true" width="100%" height="30%">
 
+### When 1600 user's are asked
+<image src="https://github.com/gopalanand333/Cloud-Native-Development-with-Node.js-Docker-and-Kubernetes/blob/master/images/1600_cloud_users.png?raw=true" height="100%" height="30%">
 
 ### to install the basic structure of express use the command 
 ```express <appname>```
 This will generate an application with basic setup that is cloud ready.
 use ```npm intalll`` to install all dependencies then 
 ```npm start``` to start the application.
+
+## Docker image
+find the template (https://github.com/CloudNativeJS/docker)
+## install docker on your system
+
